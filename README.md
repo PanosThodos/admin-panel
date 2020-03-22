@@ -1,2 +1,2 @@
-# admin-panel
+# Admin Panel
 Frontend Developer assignment
