@@ -3,9 +3,9 @@
   background: whitesmoke;
 
   mat-card {
-    height: 488px;
-    min-width: 1024px;
-    min-height: 488px;
+    height: 524px;
+    min-width: 85vw;
+    min-height: 524px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -77,9 +77,9 @@
   }
 
   .form-card {
-    padding: 0% 2%;
+    padding: 0% 3%;
     label {
-      color: #6b6b6b;
+      color: grey;
       font-size: 14px;
     }
 

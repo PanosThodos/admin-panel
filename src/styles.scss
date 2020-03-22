@@ -36,3 +36,9 @@ body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+/* Bootstrap Overwrites*/
+
+.form-control {
+  border: 1px solid #ececec;
+}
